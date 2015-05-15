@@ -1,1 +1,3 @@
 # ShowMePie
+
+TIP: This is a tip.
